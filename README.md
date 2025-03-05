@@ -26,7 +26,7 @@ I'm a **Computer Science explorer** 🧑‍💻, passionate about turning ideas 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/CrysPy-SAM)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/satyam-mishra-a26155284)  
 
-----
+----------
 ✨ *Fueling ideas, one commit at a time!* 🚀
 
 Objection@killed....
