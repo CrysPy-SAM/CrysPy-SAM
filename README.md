@@ -10,5 +10,5 @@ I'm a **Computer Science explorer** 🧑‍💻, passionate about turning ideas 
 ---------------
 ✨ *Fueling ideas, one commit at a time!* 🚀
 
-Objection@killed....
+Objection@killed.......
 
