@@ -1,4 +1,3 @@
-# Hey there! 👋 Welcome to My GitHub Universe....
 i am Satyam Mishra..
 ## 🚀 About Me
 I'm a **Computer Science explorer** 🧑‍💻, passionate about turning ideas into reality with code. Whether it's building scalable systems or crafting intuitive user experiences, I thrive on solving complex problems.
