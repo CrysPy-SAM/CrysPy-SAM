@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, MySQL, Angular, DSA, Competitive Programming**  
 
-- 📫 How to reach me **satyammishra.dev@gmail.com**  *(update email if needed)*
+- 📫 How to reach me **ssmishra9918@gmail.com** 
 
 ---
 
