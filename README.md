@@ -4,9 +4,6 @@
 <img align="right" alt="space" width="400" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/media/d5939be13ea1f3e40add7384af73ea92.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CrysPy-SAM&label=Profile%20views&color=0e75b6&style=flat" alt="CrysPy-SAM" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CrysPy-SAM" alt="CrysPy-SAM" /></a> </p>
-
 - 🌱 I’m currently learning **ML/AI, Advanced DSA, and System Design**  
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, MySQL, Angular, DSA, Competitive Programming**  
