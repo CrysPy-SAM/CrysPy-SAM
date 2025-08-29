@@ -3,28 +3,42 @@
 <h3 align="center">A passionate Developer from India</h3>
 <img align="right" alt="space" width="400" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/media/d5939be13ea1f3e40add7384af73ea92.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CrysPy-SAM&label=Profile%20views&color=0e75b6&style=flat" alt="CrysPy-SAM" /> </p>
-- 🌱 I’m currently learning **ML/AI, Advanced DSA, and System Design**  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=CrysPy-SAM&label=Profile%20views&color=0e75b6&style=flat" alt="CrysPy-SAM" />
+</p>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, MySQL, Angular, DSA, Competitive Programming**  
-
-- 📫 How to reach me **ssmishra9918@gmail.com** 
+- 🌱 I’m currently learning **ML/AI, Advanced DSA, and System Design**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, MySQL, Angular, DSA, Competitive Programming**
+- 📫 How to reach me **ssmishra9918@gmail.com**
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/satyam-mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-mishra" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/CrysPy-SAM" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CrysPy-SAM" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/CrysPy-SAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="CrysPy-SAM" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/CrysPy-SAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="CrysPy-SAM" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/CrysPy-SAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="CrysPy-SAM" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/satyam-mishra-a26155284/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://leetcode.com/u/Satyam_Mishra0/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/satyam_mishrra/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
+  <a href="https://www.codechef.com/users/CrysPy-SAM" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/CrysPy-SAM" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
+  </a>
+  <a href="https://codeforces.com/profile/CrysPy-SAM" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40"/>
+  </a>
 </p>
 
 ---
 
 <h3 align="left">⚒️ Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
