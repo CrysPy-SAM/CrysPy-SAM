@@ -8,7 +8,7 @@
 </p>
 
 - 🌱 I’m currently learning **ML/AI, Advanced DSA, and System Design**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express.js, java, MongoDB, MySQL, DSA, Competitive Programming**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express.js, java, MongoDB, MySQL, DSA, Typescript, Competitive Programming**
 - 📫 How to reach me-
 - **ssmishra9918@gmail.com/mishrasaty989@gmail.com**
 
