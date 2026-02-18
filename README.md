@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=CrysPy-SAM&label=Profile%20views&color=0e75b6&style=flat" alt="CrysPy-SAM" />
 </p>
 
-- 🌱 I’m currently learning **ML/AI, Advanced DSA, and System Design.**
+- 🌱 I’m currently learning **ML/AI, Advanced DSA, and System Design..**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express.js, java, MongoDB, MySQL, DSA, Typescript, Competitive Programming**
 - 📫 How to reach me-
 - **ssmishra9918@gmail.com/mishrasaty989@gmail.com**
