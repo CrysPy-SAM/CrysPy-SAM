@@ -1,8 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Satyam%20Mishra&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" alt="Banner" width="100%" />
-
-<h1>Hi 👋, I'm Satyam Mishra</h1>
 <h3>A passionate Developer building things for the web</h3>
 
 <img src="https://komarev.com/ghpvc/?username=CrysPy-SAM&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
