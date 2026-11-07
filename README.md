@@ -1,7 +1,12 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Satyam%20Mishra&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" alt="Banner" width="100%" />
+
 <h3>A passionate Developer building things for the web</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Backend+%7C+TypeScript+%7C+SQL;Learning+ML%2FAI+%26+System+Design" alt="Typing SVG" />
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=CrysPy-SAM&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
@@ -9,14 +14,10 @@
 
 <br/>
 
-<img align="right" alt="space" width="300" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
-
 - 🌱 Currently learning **ML/AI, Advanced DSA and System Design**
 - 💼 Full Stack Developer Intern @ **FoodNESTs Technologies**
 - 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express.js, Java, MongoDB, MySQL, PostgreSQL, DSA, Competitive Programming**
 - 📫 Reach me at **[ssmishra9918@gmail.com](mailto:ssmishra9918@gmail.com)** or **[mishrasaty989@gmail.com](mailto:mishrasaty989@gmail.com)**
-
-<br clear="right"/>
 
 ---
 
@@ -59,12 +60,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=CrysPy-SAM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrysPy-SAM&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CrysPy-SAM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CrysPy-SAM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
   <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=CrysPy-SAM&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/Satyam_Mishra0?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="Footer" />
