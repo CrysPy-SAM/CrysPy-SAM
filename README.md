@@ -60,12 +60,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CrysPy-SAM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CrysPy-SAM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" alt="Stats" src="https://raw.githubusercontent.com/CrysPy-SAM/CrysPy-SAM/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="170" alt="Top languages" src="https://raw.githubusercontent.com/CrysPy-SAM/CrysPy-SAM/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </p>
 
 <p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=CrysPy-SAM&theme=tokyonight&hide_border=true" />
+  <img height="170" alt="Repos per language" src="https://raw.githubusercontent.com/CrysPy-SAM/CrysPy-SAM/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img height="170" alt="Productive time" src="https://raw.githubusercontent.com/CrysPy-SAM/CrysPy-SAM/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+</p>
+
+---
+
+### 🐍 Contributions
+
+<p align="center">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/CrysPy-SAM/CrysPy-SAM/output/github-snake-dark.svg" />
 </p>
 
 <p align="center">
