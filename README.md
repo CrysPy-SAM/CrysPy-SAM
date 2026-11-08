@@ -68,8 +68,8 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/Satyam_Mishra0?theme=dark&font=Karma&ext=heatmap" />
-</p>
+</p> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="" />
