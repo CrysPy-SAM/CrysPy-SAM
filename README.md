@@ -18,19 +18,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" alt="GitHub stats" src="https://raw.githubusercontent.com/CrysPy-SAM/CrysPy-SAM/main/profile-summary-card-output/tokyonight/3-stats.svg" />
-  <img height="180" alt="Top languages" src="https://raw.githubusercontent.com/CrysPy-SAM/CrysPy-SAM/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-</p>
-
-<p align="center">
-  <img height="180" alt="Repos per language" src="https://raw.githubusercontent.com/CrysPy-SAM/CrysPy-SAM/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-  <img height="180" alt="Productive time" src="https://raw.githubusercontent.com/CrysPy-SAM/CrysPy-SAM/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
-</p>
-
----
 
 ### 🌐 Connect with me
 
