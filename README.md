@@ -60,7 +60,7 @@
 </p> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="" />
-### 🔥 Streak & Commits
+### 🔥 Streak & Commits.
 
 <p align="center">
   <img height="170" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=CrysPy-SAM&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" />
